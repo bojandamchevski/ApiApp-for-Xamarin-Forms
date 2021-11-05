@@ -1,0 +1,9 @@
+C:\Users\Com\Desktop\sedc-forms-prepare-demo\RealEstate\Dtos\bin\Debug\netcoreapp3.1\Dtos.deps.json
+C:\Users\Com\Desktop\sedc-forms-prepare-demo\RealEstate\Dtos\bin\Debug\netcoreapp3.1\Dtos.dll
+C:\Users\Com\Desktop\sedc-forms-prepare-demo\RealEstate\Dtos\bin\Debug\netcoreapp3.1\Dtos.pdb
+C:\Users\Com\Desktop\sedc-forms-prepare-demo\RealEstate\Dtos\obj\Debug\netcoreapp3.1\Dtos.csproj.AssemblyReference.cache
+C:\Users\Com\Desktop\sedc-forms-prepare-demo\RealEstate\Dtos\obj\Debug\netcoreapp3.1\Dtos.AssemblyInfoInputs.cache
+C:\Users\Com\Desktop\sedc-forms-prepare-demo\RealEstate\Dtos\obj\Debug\netcoreapp3.1\Dtos.AssemblyInfo.cs
+C:\Users\Com\Desktop\sedc-forms-prepare-demo\RealEstate\Dtos\obj\Debug\netcoreapp3.1\Dtos.csproj.CoreCompileInputs.cache
+C:\Users\Com\Desktop\sedc-forms-prepare-demo\RealEstate\Dtos\obj\Debug\netcoreapp3.1\Dtos.dll
+C:\Users\Com\Desktop\sedc-forms-prepare-demo\RealEstate\Dtos\obj\Debug\netcoreapp3.1\Dtos.pdb

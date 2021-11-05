@@ -1,0 +1,14 @@
+C:\Users\Com\Desktop\sedc-forms-prepare-demo\RealEstate\Mappers\bin\Debug\netcoreapp3.1\Mappers.deps.json
+C:\Users\Com\Desktop\sedc-forms-prepare-demo\RealEstate\Mappers\bin\Debug\netcoreapp3.1\Mappers.dll
+C:\Users\Com\Desktop\sedc-forms-prepare-demo\RealEstate\Mappers\bin\Debug\netcoreapp3.1\Mappers.pdb
+C:\Users\Com\Desktop\sedc-forms-prepare-demo\RealEstate\Mappers\bin\Debug\netcoreapp3.1\Dtos.dll
+C:\Users\Com\Desktop\sedc-forms-prepare-demo\RealEstate\Mappers\bin\Debug\netcoreapp3.1\RealEstate.dll
+C:\Users\Com\Desktop\sedc-forms-prepare-demo\RealEstate\Mappers\bin\Debug\netcoreapp3.1\Dtos.pdb
+C:\Users\Com\Desktop\sedc-forms-prepare-demo\RealEstate\Mappers\bin\Debug\netcoreapp3.1\RealEstate.pdb
+C:\Users\Com\Desktop\sedc-forms-prepare-demo\RealEstate\Mappers\obj\Debug\netcoreapp3.1\Mappers.csproj.AssemblyReference.cache
+C:\Users\Com\Desktop\sedc-forms-prepare-demo\RealEstate\Mappers\obj\Debug\netcoreapp3.1\Mappers.AssemblyInfoInputs.cache
+C:\Users\Com\Desktop\sedc-forms-prepare-demo\RealEstate\Mappers\obj\Debug\netcoreapp3.1\Mappers.AssemblyInfo.cs
+C:\Users\Com\Desktop\sedc-forms-prepare-demo\RealEstate\Mappers\obj\Debug\netcoreapp3.1\Mappers.csproj.CoreCompileInputs.cache
+C:\Users\Com\Desktop\sedc-forms-prepare-demo\RealEstate\Mappers\obj\Debug\netcoreapp3.1\Mappers.csproj.CopyComplete
+C:\Users\Com\Desktop\sedc-forms-prepare-demo\RealEstate\Mappers\obj\Debug\netcoreapp3.1\Mappers.dll
+C:\Users\Com\Desktop\sedc-forms-prepare-demo\RealEstate\Mappers\obj\Debug\netcoreapp3.1\Mappers.pdb
